@@ -31,3 +31,7 @@ body
 .font-alphabet-large {
     color: #ffffff;
 }
+.blockquote {
+    margin-bottom: 4rem;
+    font-size: 1.25rem;
+    }
