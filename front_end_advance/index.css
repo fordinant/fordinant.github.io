@@ -35,3 +35,7 @@ body
     margin-bottom: 5rem !important;
     font-size: 1.25rem;
     }
+
+    p.font-alphabet-large.bg-primary {
+    padding: 10px;
+}
